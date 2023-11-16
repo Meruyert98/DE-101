@@ -16,4 +16,4 @@
 
 [![Sample Dashboard](/Module01/Superstore-Dashboard.PNG)](/Module01/Superstore-Dashboard.PNG)
 
-Механизм построения можно оценить по исходному файлу [Superstore_dashboard_lab.xslx](/Module01/Superstore-Dashboard.PNG)
+Механизм построения можно оценить по исходному файлу [Superstore_with_Dashboard.xlsx](/Module01/Superstore_with_Dashboard.xlsx)
