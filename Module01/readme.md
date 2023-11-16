@@ -12,7 +12,7 @@
 
 ## Аналитика в Excel
 
-Используя данные [Sample - Superstore.xls](/Module01/Sample - Superstore.xls) собран дашборд по продажам 
+Используя данные Sample - Superstore.xls собран дашборд по продажам 
 
 [![Sample Dashboard](/Module01/Superstore-Dashboard.PNG)](/Module01/Superstore-Dashboard.PNG)
 
