@@ -4,7 +4,7 @@
 
 Создана диаграмма аналитического решения для WB используя [draw.io](https://app.diagrams.net/)
 
-[![Analytical Architecture](/Superstore-Dashboard.PNG)](/Superstore-Dashboard.PNG)
+[![Analytical Architecture](Module01/architecture.PNG)](Module01/architecture.PNG)
 
 Source Layer - слой источников данных
 Storage Layer - слой хранения данных
