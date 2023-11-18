@@ -13,15 +13,16 @@
 ### Практическая часть
 #### Установка ПО
 
-1. Установлен Docker по видео курсу Установка <strong>Docker</strong>
+1. Установлен [Postgres](https://github.com/Data-Learn/data-engineering/blob/master/how-to/How%20to%20install%20PostgreSQL.md)
+2. Установлен Docker по видео курсу Установка <strong>Docker</strong>
 
-2. Установлен PostgreSQL по инструкции <strong>Установка Postgres на Docker</strong>
+3. Установлен PostgreSQL по инструкции <strong>Установка Postgres на Docker</strong>
 
-3. Установлена программа <strong>DBSchema</strong> для проектирования базы данных. 
+4. Установлена программа <strong>DBSchema</strong> для проектирования базы данных. 
 
-4. Установлен SQL-клиент [DBeaver](https://github.com/Data-Learn/data-engineering/blob/master/how-to/%20How%20to%20install%20DBeaver.md) для подключения базы данных. Скриншот установки DBeaver
+5. Установлен SQL-клиент [DBeaver](https://github.com/Data-Learn/data-engineering/blob/master/how-to/%20How%20to%20install%20DBeaver.md) для подключения базы данных. Скриншот установки DBeaver
 
-5. Созданы 3 таблицы и загружены данные в базу из Superstore Excel файл. 3 Таблицы заполнены данными
+6. Созданы 3 таблицы и загружены данные в базу из Superstore Excel файл. 3 Таблицы заполнены данными
 
 В GitHub сохранены скрипты загрузки данных и создания таблиц.
 
