@@ -17,9 +17,9 @@
 2. Установлен SQL-клиент [DBeaver](https://github.com/Data-Learn/data-engineering/blob/master/how-to/%20How%20to%20install%20DBeaver.md) для подключения базы данных.
 3. Созданы 3 таблицы и загружены данные в базу из Superstore Excel файл. Таблицы заполнены данными
    
-      - Скрипт загрузки [orders]()
-      - Скрипт загрузки [people]()
-      - Скрипт загрузки [returns]()
+      - Скрипт загрузки [orders](/Module02/orders.sql)
+      - Скрипт загрузки [people](/Module02/people.sql)
+      - Скрипт загрузки [returns](/Module02/returns.sql)
    
  4. Написано [SQL запросы](/Module02/sql-queries.sql) для обзора ключевых метрик:
       - Total Sales;
