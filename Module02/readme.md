@@ -15,10 +15,7 @@
 
 1. Установлен [Postgres](https://github.com/Data-Learn/data-engineering/blob/master/how-to/How%20to%20install%20PostgreSQL.md)
 2. Установлен Docker по видео курсу Установка <strong>Docker</strong>
-
-3. Установлен PostgreSQL по инструкции <strong>Установка Postgres на Docker</strong>
-
-4. Установлена программа <strong>DBSchema</strong> для проектирования базы данных. 
+3. Установлена программа <strong>DBSchema</strong> для проектирования базы данных. 
 
 5. Установлен SQL-клиент [DBeaver](https://github.com/Data-Learn/data-engineering/blob/master/how-to/%20How%20to%20install%20DBeaver.md) для подключения базы данных. Скриншот установки DBeaver
 
