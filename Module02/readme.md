@@ -10,8 +10,6 @@
 5. Пройден "Интерактивный тренажер по SQL" на [Stepik.org](https://stepik.org/course/63054/syllabus)
 6. Пройден тренажер "Базы данных и SQL. Задачи" на [Stepik.org](https://stepik.org/course/182226/promo)
 
-## Часть 2:
-
 ### Практическая часть
 ### Часть №1 Установка ПО
 
@@ -52,8 +50,9 @@
 
 Вам необходимо сделать INSERT INTO SQL, чтобы заполнить Dimensions таблицы и Sales Fact таблицу. Сначала мы заполняем Dimensions таблицы, где в качестве id мы генерим последовательность чисел, а зачем Sales Fact таблицу, в которую вставляем id из Dimensions таблиц. Такой пример я рассматривал в видео.
 
-Часть 3: База данных в облаке
-Теоретическая часть
+## Часть 3: База данных в облаке
+
+### Теоретическая часть
 Видео лекция часть 1 БД в облаке
 
 Видео лекция часть 2 Создание Аналитической БД в облаке Yandex Cloud, VK CLoud
@@ -64,7 +63,7 @@
 
 Документация по VK Cloud
 
-Практическая часть
+### Практическая часть
 Создана учетная запись в VK Cloud. Если вы запускаете сервис в Cloud, не забудьте его выключить или удалить, когда он не нужен, а то все деньги спишут, тк сервис платный в принципе.
 
 Создана и активирована БД Postgres (https://github.com/Data-Learn/data-engineering/blob/master/how-to/how_to_amazon_rds.md)
@@ -86,17 +85,23 @@ Business Layer from_stg_to_dw.sql
 Попробуйте выполнить свои запросы из предыдущих упражнений. Не забудьте указать схему перед название таблицы. Например, public.orders или stg.orders.
 
 ## Часть 4: Визуализация данных Google Sheets, KlipFolio, Yandex DataLens
-Видео лекция часть 1 Сервисы визуализации для базы данных
 
-Видео лекция часть 2 Пример подключения к облачным сервисам
+### Теоретическая часть
 
-Видео-лекция по визуализации данных в Google Data Studio
+Видео лекция часть 1 [Сервисы визуализации для базы данных](https://www.youtube.com/watch?v=bqUtv1y3D7A&feature=youtu.be)
+
+Видео лекция часть 2 [Пример подключения к облачным сервисам](https://www.youtube.com/watch?v=bqUtv1y3D7A&t=825s)
+
+Видео-лекция по [визуализации данных в Google Data Studio](https://vk.com/video-99936101_456240018)
 
 Выбрать бесплатную альтернативу сервису визуализации KlipFolio с подключением к БД Postgres.
 
-Практическая часть
-Создан дашборд в Google Data Studio
+### Практическая часть
 
-Создан дашборд в Infogram.
+- Создан дашборд в Google Data Studio
+- Создан дашборд в Infogram.
 
-Идеи для создания дашборда отчета: 1. Обзор ключевых метрик Total Sales Total Profit Profit Ratio Profit per Order Sales per Customer Avg. Discount Monthly Sales by Segment ( табличка и график) Monthly Sales by Product Category (табличка и график) 1. Product Dashboard (Продуктовые метрики) Sales by Product Category over time (Продажи по категориям) 1. Customer Analysis Sales and Profit by Customer Customer Ranking Sales per region
+Идеи для создания дашборда отчета: 
+1. Обзор ключевых метрик Total Sales Total Profit Profit Ratio Profit per Order Sales per Customer Avg. Discount Monthly Sales by Segment ( табличка и график) Monthly Sales by Product Category (табличка и график)
+2. Product Dashboard (Продуктовые метрики) Sales by Product Category over time (Продажи по категориям)
+3. Customer Analysis Sales and Profit by Customer Customer Ranking Sales per region
