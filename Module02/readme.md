@@ -14,15 +14,26 @@
 #### Установка ПО
 
 1. Установлен [Postgres](https://github.com/Data-Learn/data-engineering/blob/master/how-to/How%20to%20install%20PostgreSQL.md)
-2. Установлен SQL-клиент [DBeaver](https://github.com/Data-Learn/data-engineering/blob/master/how-to/%20How%20to%20install%20DBeaver.md) для подключения базы данных. 
-3. Установлена программа <strong>DBSchema</strong> для проектирования базы данных. 
-4. Созданы 3 таблицы и загружены данные в базу из Superstore Excel файл. Таблицы заполнены данными
+2. Установлен SQL-клиент [DBeaver](https://github.com/Data-Learn/data-engineering/blob/master/how-to/%20How%20to%20install%20DBeaver.md) для подключения базы данных.
+3. Созданы 3 таблицы и загружены данные в базу из Superstore Excel файл. Таблицы заполнены данными
    
       - Скрипт загрузки [orders]()
       - Скрипт загрузки [people]()
       - Скрипт загрузки [returns]()
    
-В GitHub сохранены скрипты загрузки данных и создания таблиц.
+ 4. Написано [SQL запросы] для обзора ключевых метрик:
+   - Total Sales;
+   - Total Profit;
+   - Profit Ratio;
+   - Profit per Order;
+   - Sales per Customer;
+   - Avg. Discount;
+   - Monthly Sales by Segment;
+   - Monthly Sales by Product Category;
+   - Sales by Product Category over time;
+   - Sales and Profit by Customer;
+   - Customer Ranking;
+   - Sales per region.
 
 ## Часть 2: Проектирование Модели данных
 
@@ -40,11 +51,12 @@
 
 ### Практиктическая часть
 
+1. Установлена программа <strong>DBSchema</strong> для проектирования базы данных. 
+
 Вам необходимо нарисовать модель данных для нашего файлика Superstore:
 - Концептуальную
 - Логическую
-- Физическую
-- 
+- Физическую 
 Когда вы нарисуете модель данных, вам нужно скопировать DDL и выполнить его в SQL клиенте.
 
 Вам необходимо сделать INSERT INTO SQL, чтобы заполнить Dimensions таблицы и Sales Fact таблицу. Сначала мы заполняем Dimensions таблицы, где в качестве id мы генерим последовательность чисел, а зачем Sales Fact таблицу, в которую вставляем id из Dimensions таблиц. Такой пример я рассматривал в видео.
