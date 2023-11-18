@@ -21,19 +21,19 @@
       - Скрипт загрузки [people]()
       - Скрипт загрузки [returns]()
    
- 4. Написано [SQL запросы] для обзора ключевых метрик:
-   - Total Sales;
-   - Total Profit;
-   - Profit Ratio;
-   - Profit per Order;
-   - Sales per Customer;
-   - Avg. Discount;
-   - Monthly Sales by Segment;
-   - Monthly Sales by Product Category;
-   - Sales by Product Category over time;
-   - Sales and Profit by Customer;
-   - Customer Ranking;
-   - Sales per region.
+ 4. Написано [SQL запросы](/Module02/sql-queries.sql) для обзора ключевых метрик:
+      - Total Sales;
+      - Total Profit;
+      - Profit Ratio;
+      - Profit per Order;
+      - Sales per Customer;
+      - Avg. Discount;
+      - Monthly Sales by Segment;
+      - Monthly Sales by Product Category;
+      - Sales by Product Category over time;
+      - Sales and Profit by Customer;
+      - Customer Ranking;
+      - Sales per region.
 
 ## Часть 2: Проектирование Модели данных
 
