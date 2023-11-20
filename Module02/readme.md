@@ -50,7 +50,7 @@
    - <strong>Концептуальная модель данных</strong> представляет собой описание главных (основных) сущностей и отношений между ними. Концептуальная модель является отражением предметных областей, в рамках которых планируется построение хранилища данных.
      [![Conceptual modeling](/Module02/conceptmodel.PNG)](/Module02/conceptmodel.PNG)
    - <strong>Логическая модель</strong> расширяет концептуальную путем определения для сущностей их атрибутов, описаний и ограничений, уточняет состав сущностей и взаимосвязи между ними.
-      [![Logical modeling](/Module02/logicmodel.PNG)](/Module02/logicmodel.PNG)
+      [![Logical modeling](/Module02/logicmodel.png)](/Module02/logicmodel.png)
    - <strong>Физическая модель данных</strong> описывает реализацию объектов логической модели на уровне объектов конкретной базы данных.
       [![Physical modeling](/Module02/physicalmodel.PNG)](/Module02/physicalmodel.PNG)
 
