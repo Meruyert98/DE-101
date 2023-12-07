@@ -1,6 +1,13 @@
 # DE-101
 
-## My work
+## Data Engineer Course DE-101
 
-[lab1](/Module01/readme.md)
-[lab2](/Module02/readme.md)
+1. Лабораторная работа №1 [Module01 >>](/Module01/readme.md)
+2. Лабораторная работа №2 [Module02 >>](/Module02/readme.md)
+3. Лабораторная работа №3 Module03 >>
+4. Лабораторная работа №4 Module04 >>
+5. Лабораторная работа №5 Module05 >>
+6. Лабораторная работа №6 Module06 >>
+7. Лабораторная работа №7 Module07 >>
+8. Лабораторная работа №8 Module08 >>
+9. Лабораторная работа №9 Module09 >>
